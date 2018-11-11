@@ -1,5 +1,5 @@
 '''
-OSU Practice Helper
+osu! Practice Helper
 
 Very simple script to split beatmap into multiple chunks
 
@@ -19,7 +19,7 @@ def chunkIt(seq, num):
 
     return out
 
-system("title --- OSU Practice Helper ---")
+system("title --- osu! Practice Helper ---")
 
 fileName = input("Filename: ").replace('"','')
 parts = int(input("Part count: "))
