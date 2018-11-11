@@ -1,2 +1,2 @@
-# OSU-Practice-Helper
-Script to split maps into smaller chunks
+# OSU Practice Helper
+Simple script to split maps into smaller chunks
